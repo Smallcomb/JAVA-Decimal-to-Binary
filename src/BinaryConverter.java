@@ -5,15 +5,6 @@ import java.util.Scanner;
 
 public class BinaryConverter {
 	
-	
-	//static double findTopDigit (double userDec)
-	//{
-		
-
-
-			//return topDigit;
-	//}
-	
 	static String decToBinary (double userDec)
 	{	
 		String bin = "";
